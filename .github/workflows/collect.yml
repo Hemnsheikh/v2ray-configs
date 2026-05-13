@@ -1,0 +1,55 @@
+name: Collect V2Ray Configs
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:   # allow manual trigger from GitHub UI
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push config files back to the repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Restore Telegram session file from the secret so the bot
+      # doesn't need to re-authenticate every run.
+      - name: Restore Telegram session
+        env:
+          SESSION_B64: ${{ secrets.TELEGRAM_SESSION_B64 }}
+        run: |
+          if [ -n "$SESSION_B64" ]; then
+            echo "$SESSION_B64" | base64 -d > v2ray_session.session
+          fi
+
+      - name: Run collector (single pass)
+        env:
+          TELEGRAM_API_ID:   ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_CHANNEL:  ${{ secrets.TELEGRAM_CHANNEL }}
+          GITHUB_TOKEN:      ${{ secrets.GH_PAT }}
+          GITHUB_REPO:       ${{ github.repository }}
+          FETCH_LIMIT:       "500"
+          # Run only one cycle in CI
+          POLL_INTERVAL_SEC: "0"
+        run: python bot_ci.py
+
+      # Save updated session back as an artifact (update the secret manually
+      # the first time, then it self-refreshes via the artifact).
+      - name: Upload session artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-session
+          path: v2ray_session.session
+          retention-days: 7
