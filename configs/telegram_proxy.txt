@@ -275,3 +275,7 @@ https://t.me/proxy?server=2234568788166775z367677866752876777.ir.fulldf.info&por
 https://t.me/proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
 https://t.me/proxy?server=85.198.22.175&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=s1.relaynode42.xyz&port=443&secret=ee21de1e49e67dc42e6435dcd8d289cbe277622e7275
+https://t.me/proxy?server=84.75.220.233&port=8080&secret=eeeb77a841838f9ca2e33ec92853118df363646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=91.217.166.4&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=82.22.41.92&port=8443&secret=eea4949d032145cc03239a0b71df9ed7db63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=87.248.129.225&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
