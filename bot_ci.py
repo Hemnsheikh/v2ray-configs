@@ -16,7 +16,7 @@ from telethon.tl.types import Message
 from dotenv import load_dotenv
 
 from src.github_uploader import GitHubUploader
-from src.config_parser import extract_configs, deduplicate_configs, build_subscription
+from src.config_parser import extract_configs, deduplicate_configs, build_subscription, trim_to_limit, VLESS_MAX
 
 load_dotenv()
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -85,6 +85,8 @@ async def main():
 
     if new_vless:
         all_vless = merge(VLESS_FILE, new_vless)
+        all_vless = trim_to_limit(all_vless)   # keep newest ≤ VLESS_MAX entries
+        log.info("vless.txt: %d configs (cap=%d)", len(all_vless), VLESS_MAX)
         VLESS_FILE.write_text("\n".join(all_vless) + "\n")
         uploader.upload_file(VLESS_FILE, str(VLESS_FILE), commit_msg)
 
