@@ -17,7 +17,7 @@ from telethon.tl.types import Message
 from dotenv import load_dotenv
 
 from src.github_uploader import GitHubUploader
-from src.config_parser import extract_configs, deduplicate_configs, build_subscription
+from src.config_parser import extract_configs, deduplicate_configs, build_subscription, trim_to_limit, VLESS_MAX
 
 load_dotenv()
 logging.basicConfig(
@@ -127,6 +127,8 @@ async def run_once(client: TelegramClient, uploader: GitHubUploader):
     # ── vless.txt ─────────────────────────────────────────────────────────────
     if new["vless"]:
         all_vless = merge_with_existing(VLESS_FILE, new["vless"])
+        all_vless = trim_to_limit(all_vless)   # keep newest ≤ VLESS_MAX entries
+        log.info("vless.txt will hold %d/%d configs (cap=%d)", len(all_vless), len(all_vless), VLESS_MAX)
         write_and_upload(uploader, VLESS_FILE, "\n".join(all_vless) + "\n", commit_msg, "vless")
 
         # ── subscription.txt (base64) ─────────────────────────────────────────
