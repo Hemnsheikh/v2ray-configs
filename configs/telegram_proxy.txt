@@ -385,3 +385,12 @@ https://t.me/proxy?server=178.253.55.199&port=25565&secret=ee0b932956f6e4d400fcb
 https://t.me/proxy?server=proxymtproto.tproxy.rest&port=8443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d**
 https://t.me/proxy?server=proxy.speedbreaker.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d**
 https://t.me/proxy?server=91.217.166.6&port=16&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=5.78.185.237&port=7980&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=84.32.151.169&port=443&secret=27ebe852539fb8ec5f327c73262bb721
+https://t.me/proxy?server=65.108.50.120&port=443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/ThePhantom_Net/1324
+https://t.me/proxy?server=bminecraft.info&port=25565&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6
+https://t.me/proxy?server=bminecraft.info&port=25565&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=204.168.166.29&port=8443&secret=dd104462821249bd7ac519130220c25d09&&channel=@baicai_dev
+https://t.me/proxy?server=18.175.151.181&port=80&secret=dd104462821249bd7ac519130220c25d09&&channel=@baicai_dev
+https://t.me/proxy?server=87.248.129.13&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
+https://t.me/proxy?server=54.77.249.168&port=80&secret=dd104462821249bd7ac519130220c25d09
