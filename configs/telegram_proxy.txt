@@ -509,3 +509,9 @@ https://t.me/proxy?server=5.75.222.225&port=8443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=78.47.118.161&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662
 https://t.me/proxy?server=norm.quickdl.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=78.47.216.137&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=144.124.254.220&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=3.64.237.188&port=2053&secret=ee052186706e4be82a017061677ee22f93706574726f766963682e7275
+https://t.me/proxy?server=46.225.252.107&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=18.184.207.25&port=2053&secret=eea531eb226f2d5c38f8d1ac7c3567a30c706574726f766963682e7275
+https://t.me/proxy?server=104.248.243.71&port=443&secret=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
