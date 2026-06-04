@@ -636,3 +636,11 @@ https://t.me/proxy?server=94.130.191.164&port=8443&secret=13ffffff1003cc3005aa50
 https://t.me/proxy?server=95.217.25.59&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=87.248.129.248&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6
 https://t.me/proxy?server=195.254.165.25&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6
+https://t.me/proxy?server=167.233.53.190&port=443&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27
+https://t.me/proxy?server=93.113.230.237&port=443&secret=dd71f113e3cec722d3e1701bbab480f3d4
+https://t.me/proxy?server=140.82.42.159&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=188.121.121.55&port=1000&user=https%3A%2F%2Ft.me%2Fnet_melll&pass=https%3A%2F%2Ft.me%2Fnet_melll
+https://t.me/proxy?server=167.233.60.38&port=443&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27
+https://t.me/proxy?server=167.233.52.240&port=443&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27
+https://t.me/proxy?server=65.109.251.105&port=8080&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=167.233.58.228&port=443&secret=ddd77db43ee3721f0fcb40a4ff63b5cd27
