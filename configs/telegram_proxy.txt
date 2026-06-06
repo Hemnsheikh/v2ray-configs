@@ -775,3 +775,4 @@ https://t.me/proxy?server=178.105.232.49&port=8443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=185.234.100.103&port=2053&secret=bf326e082e8ce950a4dd708e08a112cb
 https://t.me/proxy?server=206.206.103.122&port=2053&secret=bf326e082e8ce950a4dd708e08a112cb
 https://t.me/proxy?server=45.137.198.186&port=443&secret=ee093f927b1551044cf9ae99314bd15fe57777772e62696e672e636f6d
+https://t.me/proxy?server=94.130.163.24&port=443&secret=dd104462821249bd7ac519130220c25d09
