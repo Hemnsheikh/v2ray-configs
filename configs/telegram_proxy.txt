@@ -822,3 +822,14 @@ https://t.me/proxy?server=95.217.38.123&port=4455&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=195.254.165.189&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ==&user=%40HoosheMasnui&pass=%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C
 https://t.me/proxy?server=176.65.138.27&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ==&user=%40HoosheMasnui&pass=%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C
 https://t.me/proxy?server=5.144.179.70&port=443&secret=5c2a6240836172009951844ba122320d&user=%40HoosheMasnui&pass=%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%87%D9%88%D8%B4%20%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C
+https://t.me/proxy?server=70.34.197.54&port=8080&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=65.108.29.212&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=one.nolags.pw&port=443&secret=ddb42df8d0f53f13032f0e8b3e145ef053
+https://t.me/proxy?server=65.108.29.211&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.129.103&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D
+https://t.me/proxy?server=185.223.93.114&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=185.204.168.56&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=195.254.165.207&port=443&secret=FgMBAgABAAH8AwOG4kw63QFgMBAgABAAH8AwOG4kw63Q
+https://t.me/proxy?server=167.233.53.2&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.178.96.49&port=443&secret=ee0e5c9ccecd6aa3a7e61172f39dd77e36636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=45.157.118.116&port=2053&secret=ade57c97d109bcd0651d064c95016afc
