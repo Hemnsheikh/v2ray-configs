@@ -805,3 +805,13 @@ https://t.me/proxy?server=3.79.22.75&port=80&secret=eefc56fb73c972a2309c4787bc13
 https://t.me/proxy?server=5.75.196.174&port=4455&secret=dda09aa87490fa81d8e84caa2ccb6c3f0c
 https://t.me/proxy?server=51.89.118.91&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=188.245.121.80&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=cdn.proxyonline.online&port=8443&secret=eea4f3b8de32f62e5ba0e44cea5465930063646e2e70726f78796f6e6c696e652e6f6e6c696e65
+https://t.me/proxy?server=167.233.20.112&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D#proxydotnet
+https://t.me/proxy?server=167.233.64.134&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=157.180.122.162&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=176.65.138.28&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ%3D%3D
+https://t.me/proxy?server=176.65.138.27&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ%3D%3D
+https://t.me/proxy?server=45.38.143.12&port=443&secret=ee0fa61ed957149281c09bf0441490ad1b7777772e676f6f676c652e636f6d
+https://t.me/proxy?server=128.140.113.66&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=176.65.138.27&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ==
+https://t.me/proxy?server=solzairanbad.ir&port=2083&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D
