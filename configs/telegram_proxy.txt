@@ -1151,3 +1151,17 @@ https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt
 https://t.me/proxy?server=172.65.139.221&port=3389&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=b.bits-lab.info&port=443&secret=7pBeddseQIDjYPaFCMdzONRnaXRodWIuY29t
 https://t.me/proxy?server=81.90.25.57&port=443&secret=2b861a9d646551532a86c0de2d9fab02
+https://t.me/proxy?server=116.203.14.86&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.217.67.248&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=65.21.214.176&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.217.67.251&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.217.67.250&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.129.247&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=65.21.214.177&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3Dkpj
+https://t.me/proxy?server=91.107.252.35&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.129.253&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=proxy2.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275
+https://t.me/proxy?server=93.190.247.226&port=443&secret=ee77b20ec12fb5b1fa89b055f21e9c6712617669746f2e7275
+https://t.me/proxy?server=37.27.65.122&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.217.67.250&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
