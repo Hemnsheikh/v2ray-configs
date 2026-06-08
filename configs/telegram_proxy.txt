@@ -1051,3 +1051,11 @@ https://t.me/proxy?server=mci.ir.mokhaberat.com.adadb-1hgujoiah-xy1xutr095-tk.in
 https://t.me/proxy?server=193.151.148.183&port=1281&secret=eeb6afdf918b034ffd5f169548a3e534ad
 https://t.me/proxy?server=65.109.188.25&port=300&secret=eeNEgYdJvXrFGRMCIMJdCWFydmFuY2xvdWQuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=big.shahidpaper.site&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@VPN_PASARGAD
+https://t.me/proxy?server=145.239.30.164&port=8443&secret=dd7dc96c762ced27a3bbfe6415d0b09a94
+https://t.me/proxy?server=141.95.109.50&port=443&secret=dd3a6acb468feb6289fc1dcc470a534b70
+https://t.me/proxy?server=91.107.246.90&port=8080&secret=dd104462821249bd7ac519130220c25d09****
+https://t.me/proxy?server=188.245.196.78&port=8443&secret=dd104462821249bd7ac519130220c25d09****
+https://t.me/proxy?server=46.62.234.149&port=4455&secret=ee1603010200010001fc030386e24c3add7765622e79656b74616e65742e636f6d****
+https://t.me/proxy?server=188.40.191.149&port=8443&secret=dd104462821249bd7ac519130220c25d09****
+https://t.me/proxy?server=87.248.129.104&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=87.248.129.223&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20****
