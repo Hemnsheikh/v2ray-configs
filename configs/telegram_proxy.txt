@@ -1299,3 +1299,16 @@ https://t.me/proxy?server=5.78.59.193&port=8443&secret=dd104462821249bd7ac519130
 https://t.me/proxy?server=87.248.129.231&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=87.248.129.98&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=87.248.129.105&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=5.78.53.137&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.216.42.228&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.78.57.102&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=65.109.244.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=web.vingardium.co.uk.&port=443&secret=7t3__FoRaLL_Proxy_93ZWIuYmFsZS5haQ==
+https://t.me/proxy?server=proxy4.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275
+https://t.me/proxy?server=www.vingardium.co.uk.&port=443&secret=7t3____FoRaLL_Proxy___93ZWIuYmFsZS5haQ%3D%3D
+https://t.me/proxy?server=noip.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=145.239.173.169&port=443&secret=ddb1144b60632b5f89b5d6889243b119dc
+https://t.me/proxy?server=flux.proxytop.space&port=443&secret=ee939c94e58cb9ac7dec74ae86d8461089666c75782e70726f7879746f702e7370616365
+https://t.me/proxy?server=65.109.189.247&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.129.97&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
