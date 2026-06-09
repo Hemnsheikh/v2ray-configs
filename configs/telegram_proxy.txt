@@ -1273,3 +1273,13 @@ https://t.me/proxy?server=www.vingardium.co.uk.&port=443&secret=7t3__FoRaLL_Prox
 https://t.me/proxy?server=87.248.129.99&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=2.26.146.7&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
 https://t.me/proxy?server=5.78.77.99&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d](https://t.me/+kl-FIl6qw89iOTZk
+https://t.me/proxy?server=84.252.131.153&port=443&secret=ee00819c04340f17fabac7f07b463f8b15617669746f2e7275
+https://t.me/proxy?server=5.161.143.78&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.216.66.224&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.161.143.86&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.216.66.254&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=65.109.186.35&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=andjcio.servers801.ir&port=444&secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d
+https://t.me/proxy?server=65.109.180.0&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+https://t.me/proxy?server=84.234.31.151&port=2053&secret=ee50239d03c683975c9bd032bc9612113f73746f72652e737465616d706f77657265642e636f6d
