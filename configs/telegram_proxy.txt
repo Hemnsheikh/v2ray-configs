@@ -1437,3 +1437,9 @@ https://t.me/proxy?server=89.167.1.2&port=4455&secret=7vDusL2a3E_UqTmU7jsqIWtiaX
 https://t.me/proxy?server=1111.imtproxy-ir.info&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D
 https://t.me/proxy?server=45.76.34.104&port=443&secret=ddd9e372071a8cd3a4997d29794d3bd7a0
 https://t.me/proxy?server=178.105.140.222&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=162.19.181.233&port=9443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=zzbfpqaz5edd.vtret.com&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=jkgbmo9v5aa1.doprik.com&port=8443&secret=ee104462821249bd7ac519130220c25d097661727a657368332e636f6d
+https://t.me/proxy?server=5.78.60.180&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.78.51.242&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.98.101.62&port=8443&secret=dd104462821249bd7ac519130220c25d09
