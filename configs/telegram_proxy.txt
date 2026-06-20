@@ -1856,3 +1856,12 @@ https://t.me/proxy?server=91.134.68.104&port=4455&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=91.134.19.73&port=4455&secret=dd104462821249bd7ac519130220c25d09****
 https://t.me/proxy?server=5.78.29.119&port=4455&secret=dd104462821249bd7ac519130220c25d09****
 https://t.me/proxy?server=89.167.62.40&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
+https://t.me/proxy?server=87.248.129.131&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=87.248.129.201&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=87.248.129.197&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=inbout.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=5.78.29.114&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=57.128.70.125&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=net.freetg.pw&port=443&secret=eebd79a03bd57944c4830f41e0f2fb94626e65742e6672656574672e7077
+https://t.me/proxy?server=91.107.144.18&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5.78.29.118&port=4455&secret=dd104462821249bd7ac519130220c25d09
