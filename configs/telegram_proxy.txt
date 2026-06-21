@@ -1996,3 +1996,12 @@ https://t.me/proxy?server=167.233.114.141&port=4455&secret=dd104462821249bd7ac51
 https://t.me/proxy?server=54.37.76.37&port=8080&secret=KnXTGtwMFHfE6Q-xVPVVaTRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA****
 https://t.me/proxy?server=www2.nilmart.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d****
 https://t.me/proxy?server=87.248.126.639l.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=93.77.166.29&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275
+https://t.me/proxy?server=21.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063****
+https://t.me/proxy?server=131.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063****
+https://t.me/proxy?server=41.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063****
+https://t.me/proxy?server=57.129.124.138&port=443&secret=A6bz9BkOhPsETBGrxeySmjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&&channel=@baicai_dev
+https://t.me/proxy?server=57.131.128.244&port=8443&secret=fcueX3OEzfDoZdrhrd7lrzRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA****
+https://t.me/proxy?server=65.109.188.132&port=4140&secret=ee79e7010200010007f0030386e24c3add7777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=57.131.128.244&port=8443&secret=fcueX3OEzfDoZdrhrd7lrzRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=65.108.210.170&port=8080&secret=ee52fe9ce214b8354c21e2dece487626d033333333333031333033303030303030303030323232323232333333333131313131313435353535353535352e636f6d****
