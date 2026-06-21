@@ -1983,3 +1983,16 @@ https://t.me/proxy?server=21.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809
 https://t.me/proxy?server=131.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063
 https://t.me/proxy?server=41.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063
 https://t.me/proxy?server=pr.ashconfig.dpdns.org&port=80&secret=dd6ef7f6a85d4af7a391d2326494e6946a
+https://t.me/proxy?server=54.37.76.37&port=8080&secret=KnXTGtwMFHfE6Q-xVPVVaTRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=a.similemat.com&port=12341&secret=3b612731e1f3fa7b1ed50d2f70f737c5
+https://t.me/proxy?server=a.similemat.com&port=12341&secret=6e9a480f7e55f895a5a8c8e76771cbfa
+https://t.me/proxy?server=95.38.232.59&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=2.144.5.131&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=2.144.23.23&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=188.34.167.142&port=4455&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=33637777899.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=a.similemat.com&port=12341&secret=5695949d11e2620fecdf85e3939a6823
+https://t.me/proxy?server=167.233.114.141&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=54.37.76.37&port=8080&secret=KnXTGtwMFHfE6Q-xVPVVaTRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA****
+https://t.me/proxy?server=www2.nilmart.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d****
+https://t.me/proxy?server=87.248.126.639l.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d****
