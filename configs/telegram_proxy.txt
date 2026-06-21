@@ -2013,3 +2013,9 @@ https://t.me/proxy?server=telegram.ashconfig.dpdns.org&port=23&secret=dd309011ec
 https://t.me/proxy?server=65.108.210.170&port=8080&secret=ee52fe9ce214b8354c21e2dece487626d033333333333031333033303030303030303030323232323232333333333131313131313435353535353535352e636f6d
 https://t.me/proxy?server=116.203.159.97&port=155&secret=dd1603010200010001fc030386e24c3add
 https://t.me/proxy?server=195.18.10.223&port=77777&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=5.78.77.99&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d](https://t.me/+FeLx4iiAmkY3ZGJk
+https://t.me/proxy?server=95.217.124.82&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=65.21.235.85&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=pa.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=141.94.35.198&port=8443&secret=KJMzdV95II7M1QRJJE5E6zRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=57.131.128.54&port=8443&secret=wcbTP12Ty_0bK-F4eIvvuDRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA
