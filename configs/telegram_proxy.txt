@@ -2069,3 +2069,7 @@ https://t.me/proxy?server=95.216.90.188&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=19061995.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=21.57.250.115&port=443&secret=dd7368b80dd2f16ced3d4809c841775063](https://t.me/dy_gt
 https://t.me/proxy?server=a.similemat.com&port=12341&secret=b1d6aeb586a6f176f0aa5c8785a3c66b
+https://t.me/proxy?server=moh.telbet.lol&port=25565&secret=dd79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=95.217.248.133&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=167.233.118.91&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=a.similemat.com&port=12341&secret=6517c44a93d0b7b5deefa3167989f0ab
